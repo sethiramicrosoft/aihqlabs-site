@@ -75,6 +75,29 @@ h2{
 }
 .card p{margin:0;color:var(--muted)}
 .card a{color:var(--ink)}
+.section-intro{
+  margin:.2rem 0 1rem;
+  color:var(--muted);
+}
+
+.flagship .badge-row{
+  margin:.75rem 0 .95rem;
+}
+
+.flagship .grid{
+  margin-top:.15rem;
+}
+
+.feature-list{
+  margin:.2rem 0 0;
+  padding-left:1.1rem;
+}
+
+.feature-list li{
+  margin:.35rem 0;
+  color:var(--muted);
+}
+
 .repo-link{margin-top:1rem}
 .site-footer{border-top:1px solid var(--line);margin-top:2rem}
 .site-footer .container{padding:1rem 0 2rem;color:var(--muted)}
